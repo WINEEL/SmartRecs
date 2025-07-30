@@ -75,6 +75,10 @@ Drafts, `.docx`, and `.pptx` files are excluded to keep the repository clean and
 - User-based personalization via login
 - Model enhancement with embeddings or transformers
 
+## License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with attribution.
+
 ## Author
 **Wineel Wilson Dasari**  
 MS in Computer Science – Santa Clara University  
