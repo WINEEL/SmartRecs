@@ -55,11 +55,19 @@ This project was developed using **Kaggle Notebooks**, which offer up to **30 GB
 
 ## Example Results
 
-### Input: `Inception (2010)`
+### Input: `Inception`
 Returns top Action/Sci-Fi recommendations like *Rogue One*, *Avengers: Endgame*
 
 ### Input: `Cars 2`
 Returns animated family-friendly films like *Cars 3*, *Finding Dory*
+
+## Documentation
+Only the final PDF versions of the project documents are included in this repository under the `docs/` folder:
+
+- [Report.pdf](docs/Report.pdf)
+- [Presentation Slides.pdf](docs/Presentation%20Slides.pdf)
+
+Drafts, `.docx`, and `.pptx` files are excluded to keep the repository clean and lightweight.
 
 ## Future Work
 - Add filtering by actor/director/runtime
